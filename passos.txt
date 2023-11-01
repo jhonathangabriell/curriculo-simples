@@ -4,4 +4,5 @@ git config --global user.email jhonathangabriel2014@gmail.com
 git clone https://github.com/jhoonathan/curriculo-simples.git
 Salvando no git
 git add .
-git commit -m "Inicio dos códigos da pagina inicial
+git
+git push
