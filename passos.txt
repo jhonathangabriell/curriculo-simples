@@ -1,8 +1,8 @@
 configurando o git
 git config --global user.name jhoonathan
 git config --global user.email jhonathangabriel2014@gmail.com
+
 git clone https://github.com/jhoonathan/curriculo-simples.git
-Salvando no git
 git add .
-git
+git commit -m "   "
 git push
